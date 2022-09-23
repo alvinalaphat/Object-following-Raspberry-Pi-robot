@@ -1,3 +1,7 @@
 For our project, we don't need a database as it turns out the application demonstrated in the project selection demo used an algorithm called
-Circular Hough transform to mainly detect a circular object in a frame and applied a yellow mask similar to what we did in practical 1 to identify
+Circular Hough transform to mainly detect a circular object in a frame and it then applied a yellow mask similar to what we did in practical 1 to identify
 the yellow tennis ball. Since our project relies less on classification and more on identification/recognition, there is no training or test set needed. 
+
+The approach will be to use the similar circular hough transform algorithm to identify the shape of the ball, a yellow mask to identify the object,
+consistent lighting conditions, a contrasting background, motors to move towards the ball, and wheels to make turns and keep the ball in the center
+of the camera frame attached to the raspberry Pi. 
