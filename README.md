@@ -1,3 +1,3 @@
-# Object-following-Raspberry-Pi-robot
+# Object-Following-Raspberry-Pi-Robot
 
 Project by Alvin Alaphat and Luke Marushack
